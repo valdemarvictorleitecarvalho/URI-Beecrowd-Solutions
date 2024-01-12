@@ -13,8 +13,8 @@ This repository not only demonstrates proficiency in different programming langu
 
 # Used technologies
 - Python
-- Java
 - C++
+- Java
 
 # Author
 
